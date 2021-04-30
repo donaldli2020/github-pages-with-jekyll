@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "I am coding!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I like to code!
